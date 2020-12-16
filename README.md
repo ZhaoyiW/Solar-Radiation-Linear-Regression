@@ -3,6 +3,13 @@
 ## Backgroud and Goal
 Solar radiation measurement is hard and costs much. The goal of this project is to build a regression model to predict the solar radiation as accurate as possible.
 
+## Modules
+- pandas: data processing
+- numoy: linear algebra
+- seaborn: data visualization
+- matplotlib: data visualization
+- datetime: manipulate date time types of data
+- sklearn: maching learning
 ## File Descriptions
 ### SolarPrediction.csv
 - The original dataset

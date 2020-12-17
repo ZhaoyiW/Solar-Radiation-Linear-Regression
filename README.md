@@ -36,3 +36,9 @@ Solar radiation measurement is hard and costs much. The goal of this project is 
 
 ## Best Result
 ### R squared = 0.7248
+
+## License
+This project is under [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt).
+
+## Author
+[Zhaoyi Wang](https://github.com/ZhaoyiW)

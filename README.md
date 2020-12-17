@@ -1,4 +1,4 @@
-# Solar-Radiation-Linear-Regression
+# Solar-Radiation-Linear-Regression   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Backgroud and Goal
 Solar radiation measurement is hard and costs much. The goal of this project is to build a regression model to predict the solar radiation as accurate as possible.
